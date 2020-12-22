@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lyrics Finder</string>
+    <string name="input_artist_name">Enter Artist Name</string>
+    <string name="input_hint">Characters/Numbers Only</string>
+    <string name="input_song_title">Enter Song Title</string>
+    <string name="fetch">Fetch!</string>
+    <string name="failedToFetch">**Failed**</string>
+    <string name="fetching">Fetching…</string>
+    <string name="noInternet">No Internet</string>
+
+</resources>
